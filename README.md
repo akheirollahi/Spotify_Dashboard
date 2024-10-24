@@ -1,7 +1,5 @@
 # 🎶 Spotify Dashboard using Power BI! 
 
-![logo](https://github.com/user-attachments/assets/e2e21880-7061-4f1b-a84c-fbb62d4f306b)
-
 This project features an interactive dashboard built with Power BI that analyzes various Spotify data insights.
 
 https://github.com/user-attachments/assets/a946359d-6b28-43a1-bd82-a52d798f0f27
