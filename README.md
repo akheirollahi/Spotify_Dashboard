@@ -2,7 +2,8 @@
 
 This project features an interactive dashboard built with Power BI that analyzes various Spotify data insights.
 
-https://github.com/user-attachments/assets/a946359d-6b28-43a1-bd82-a52d798f0f27
+https://github.com/user-attachments/assets/a862c12e-412d-4254-a614-0e8fcf2afe94
+
 
 The dashboard provides an intuitive and visual representation of key metrics such as:
 
