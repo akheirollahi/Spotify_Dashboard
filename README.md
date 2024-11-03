@@ -1,4 +1,4 @@
-# 🎶 Spotify Dashboard using Power BI! 
+# 🎶 Spotify Dashboard! 
 
 This project features an interactive dashboard built with Power BI that analyzes various Spotify data insights.
 
